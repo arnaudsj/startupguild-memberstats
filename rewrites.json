@@ -1,0 +1,8 @@
+[
+	{
+		"from": "",
+		"to": "_list/showstats/getJoinedDateCount",
+		"method": "GET",
+		"query": {"group": "true"}
+	}
+]
